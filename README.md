@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 I'm Julen.
 
 <!--
 **julendc9/julendc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍💻 I know these languages but I never stop learning:
+
+* HTML
+* CSS
+* JavaScript
+* Java
+* Python
+
+💬Get in touch:
+⚡LinkedIn: https://www.linkedin.com/in/julen-del-arco/
